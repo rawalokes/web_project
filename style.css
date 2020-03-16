@@ -1,0 +1,49 @@
+.container{
+			background-color: #ededed;
+			box-sizing: border-box;
+			padding:43px 20px 3px 20px;
+			border-color:blue; 
+			margin: 10px;
+			width: 400px;
+			height: 600px;
+			border: 300px;
+			}
+input[type=text], input[type=password],
+input[type=email],input[type=date],
+input[type=gender],input[type=password]
+ {
+			width: 100%;
+			padding: 12px 20px 0px 12px;
+			display: inline-block;
+			border: 1px;
+			box-sizing: border-box;
+			background-color: #ededed;
+
+}
+.bty{
+	height: 25px;
+
+	width: 250px;
+	background-color: #b5aeae;
+	text-align: center;
+	 padding: 1px;
+  	font-size: 12px;
+  	border-radius: 5px;
+ 	 margin: 1px;
+ 	 border: none;
+ 	
+}
+.aling{
+	float:left;
+
+
+}
+.image{
+	width: 400px;
+	height:200px;
+
+}
+.special{
+float:left;
+padding-left: 50px;
+}
