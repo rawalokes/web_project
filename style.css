@@ -32,18 +32,4 @@ input[type=gender],input[type=password]
  	 margin: 1px;
  	 border: none;
  	
-}
-.aling{
-	float:left;
 
-
-}
-.image{
-	width: 400px;
-	height:200px;
-
-}
-.special{
-float:left;
-padding-left: 50px;
-}
