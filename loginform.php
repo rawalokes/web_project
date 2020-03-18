@@ -13,7 +13,7 @@
 	<div class="container">
 		<h2>LOGIN</h2>
 		
-		<img src="log.jpg"style="width:360px;height:200px;">
+		
 
 		
 	
