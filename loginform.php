@@ -22,18 +22,17 @@
 		<label class="aling" for="email">Email</label><br>
 
 		<input type="email" placeholder="email" name="email" id="email"required >
-		<hr>
 		
 		<br>
 
 		<label class="aling" for="password">Password</label><br>
 		<input type="password" name="password" placeholder="password" id="password" required>
-		<hr>	
+		
 		   	
 		   <br>
 		   
 		   	<button type="submit" id="login" name="login">Login</button>
-		   	<button type="submit" id="Singup" name="Singup"> <a href="form.php">Singup? </a></button>
+		   	
 		   
 	</div>
 	</form> 
